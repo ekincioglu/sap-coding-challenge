@@ -1,0 +1,17 @@
+{
+  "invoiceNumber": 10001,
+  "totalAmount": 650,
+  "externalSystem": "Syterm1",
+  "items": [
+    {
+      "amount": 450,
+      "country": "Germany",
+      "taxCode": "Default"
+    },
+    {
+      "amount": 200,
+      "country": "India",
+      "taxCode": "Senior"
+    }
+  ]
+}
